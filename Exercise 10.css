@@ -1,0 +1,15 @@
+h1, h2{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    color: hsl(285, 3%, 27%);
+}
+
+ol,ul{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: rgb(214, 173, 123);
+}
+
+body{
+    background-image: url(https://images.contentstack.io/v3/assets/blt370612131b6e0756/bltd897c9a5cef63006/5f9367dacb9eba781f0846fc/LoL_WR_KV_Banner_1920x1080.jpg);
+    background-size: cover;
+}
