@@ -1,0 +1,5 @@
+console.log("Anthony Villalon")
+console.log("Bachelor of Science in Computer Science")
+console.log("First Year")
+console.log("HUMCOM IDA2")
+console.log("Introduction to Javascript")
